@@ -1,19 +1,18 @@
 # Hi, I'm Celso! :D
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/batistrutaa2)](https://github.com/batistrutaa2)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/celso-rom%C3%A3o-159476215/)](https://www.linkedin.com/in/celso-rom%C3%A3o-159476215/)
-
-
-### About me
-I'm a {backend, frontend} we currently work with PHP/LARAVEL technologies.
-
-- [Website](https://batistrutaa2.github.io/) 💻 - Working on it.
-
+ <div>
+  <a href="https://github.com/batistrutaa2">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=batistrutaa2&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batistrutaa2&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
+</div>
