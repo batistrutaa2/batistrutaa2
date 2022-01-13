@@ -1,6 +1,8 @@
-# Hi, I'm Celso! :D
+Sou Celso Romão, desenvolvedor Web Full Stack.
 
- <div>
+- 🔭 Atualmente estou trabalhando no PHP/VUE e LARAVEL :)
+
+<div>
   <a href="https://github.com/batistrutaa2">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=batistrutaa2&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batistrutaa2&layout=compact&langs_count=7&theme=dark"/>
