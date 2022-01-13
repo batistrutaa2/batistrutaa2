@@ -1,4 +1,4 @@
-# Opa, Salve :+1: 
+# Salve :+1: 
 Sou Celso Romão, desenvolvedor Web Full Stack.
 
 - 🔭 Atualmente estou trabalhando no PHP/VUE e LARAVEL :)
