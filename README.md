@@ -1,7 +1,7 @@
 # Salve :+1: 
 Sou Celso Romão, desenvolvedor Web Full Stack.
 
-- 🔭 Atualmente estou trabalhando no PHP/VUE e LARAVEL :)
+- 🔭 Atualmente trabalho com PHP e todo ecosistema laravel
 
 <div>
   <a href="https://github.com/batistrutaa2">
