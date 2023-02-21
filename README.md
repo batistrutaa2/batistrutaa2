@@ -2,7 +2,7 @@
 Sou Celso Romão, Desenvolvedor Full Stack com 5 Anos de experiência.
 
 - 🔭 Atualmente trabalho com PHP, Todo ecosistema laravel na Web. 
-Tambem ativo e dando diversas manutençoes em aplicativos android com a Linguaguem Kotlin 😃
+Tambem ativo e prestando diversas manutençoes em aplicativos android com a Linguaguem Kotlin 😃
 
 <div>
   <a href="https://github.com/batistrutaa2">
